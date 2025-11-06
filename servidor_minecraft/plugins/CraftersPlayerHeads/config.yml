@@ -1,0 +1,25 @@
+# Hey you! Thanks for using my plugin. I created it for my own server https://crafters.one.
+# We're a small whitelisted vanilla SMP with a permanent map, generated on jan 28th, 2021.
+
+# You can join us at https://crafters.one/Discord or see our plugins here https://www.spigotmc.org/resources/authors/plexiate.117947/
+# or at my modrinth here https://modrinth.com/user/Plexiate
+
+# Webhook functionality will only send alerts when a player head is converted. If the 'convert-legacy-heads'
+# option is NOT enabled this setting is essentially useless. If you have suggestions I am open to hear them - plexiate@crafters.com
+webhook:
+webhook-enabled: false
+
+settings:
+  prefix: "&8[&aCrafters&8]"
+  allow-anvils: false # Allows players to rename player heads. This should be enabled if you are using the legacy head options.
+  no-permissions-msg: "&fUnknown command. Type ''/help'' for help."
+  reload-msg: "&fSuccessfully reloaded configuration."
+
+legacy-heads:
+  convert-old-heads: false # Converts existing heads into 'legacy' heads.
+  preserve-lore: true # Keep pre-existing lore. # NOT WORKING
+  new-head-name: "&eLegacy {PLAYER} &eHead"
+  lore:
+    line1: "&f" # I put this here to add spacing between preserved & new lores.
+    line2: "&f☠ 1st Generation Player Head"
+    line3: "&fThese heads dropped before &eOctober 12th&f,&e 2023&f."

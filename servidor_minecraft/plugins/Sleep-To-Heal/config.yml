@@ -1,0 +1,18 @@
+# Sleep To Heal Configuration
+# How much health to restore per healing tick (2 = 1 heart)
+heal-amount-per-tick: 1.0
+
+# How often to heal (in ticks, 20 ticks = 1 second)
+tick-interval: 20
+
+# Minimum ticks player must be in bed before healing starts (40 = 2 seconds)
+min-ticks-in-bed: 40
+
+# Remove negative potion effects while sleeping
+remove-negative-effects: true
+
+# Play healing sound effect
+play-sound: true
+
+# Enable chat messages
+enable-messages: true

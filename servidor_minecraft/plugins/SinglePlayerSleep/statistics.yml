@@ -1,0 +1,24 @@
+# SinglePlayerSleep Statistics
+# This file tracks usage statistics for the plugin
+
+# Total number of sleep events triggered
+total-sleep-count: 156
+
+# Total number of manual night skips
+manual-skips: 0
+
+# Last time statistics were updated (timestamp)
+last-updated: 1762308329080
+
+# Plugin version when statistics were created
+version: 1.0.0
+player-sleep-counts:
+  Alejooo877: 27
+  samilonga: 41
+  SoyAnsie: 24
+  Roosevelt030310: 2
+  Castro_478: 2
+  ELSEBAnobulto: 1
+  _Swxfty_: 48
+  Eliamsantana30: 10
+  lucascr7insano: 1

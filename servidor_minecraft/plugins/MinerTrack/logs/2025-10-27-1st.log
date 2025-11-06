@@ -1,0 +1,3 @@
+2025-10-28 01:51:01 | samilonga failed X-Ray check VL:1(+1) Block:DEEPSLATE_DIAMOND_OREx8(Veinx3) World: world Pos: X770 Y-56 Z3273
+2025-10-28 01:52:46 | samilonga failed X-Ray check VL:2(+1) Block:DEEPSLATE_DIAMOND_OREx1(Veinx4) World: world Pos: X714 Y-54 Z3274
+Excuted Command: minertrack notify &fsamilonga &7triggered &fX-Ray &7detection [&cVL: 2&7]
